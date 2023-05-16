@@ -1,0 +1,15 @@
+/Users/twincode/Desktop/Steve_Jobs_Academy/Materie-2°-Anno/Programmazione 2/RubricaTelefonica/RubricaTelefonica/bin/Debug/net7.0/RubricaTelefonica
+/Users/twincode/Desktop/Steve_Jobs_Academy/Materie-2°-Anno/Programmazione 2/RubricaTelefonica/RubricaTelefonica/bin/Debug/net7.0/RubricaTelefonica.deps.json
+/Users/twincode/Desktop/Steve_Jobs_Academy/Materie-2°-Anno/Programmazione 2/RubricaTelefonica/RubricaTelefonica/bin/Debug/net7.0/RubricaTelefonica.runtimeconfig.json
+/Users/twincode/Desktop/Steve_Jobs_Academy/Materie-2°-Anno/Programmazione 2/RubricaTelefonica/RubricaTelefonica/bin/Debug/net7.0/RubricaTelefonica.dll
+/Users/twincode/Desktop/Steve_Jobs_Academy/Materie-2°-Anno/Programmazione 2/RubricaTelefonica/RubricaTelefonica/bin/Debug/net7.0/RubricaTelefonica.pdb
+/Users/twincode/Desktop/Steve_Jobs_Academy/Materie-2°-Anno/Programmazione 2/RubricaTelefonica/RubricaTelefonica/obj/Debug/net7.0/RubricaTelefonica.csproj.AssemblyReference.cache
+/Users/twincode/Desktop/Steve_Jobs_Academy/Materie-2°-Anno/Programmazione 2/RubricaTelefonica/RubricaTelefonica/obj/Debug/net7.0/RubricaTelefonica.GeneratedMSBuildEditorConfig.editorconfig
+/Users/twincode/Desktop/Steve_Jobs_Academy/Materie-2°-Anno/Programmazione 2/RubricaTelefonica/RubricaTelefonica/obj/Debug/net7.0/RubricaTelefonica.AssemblyInfoInputs.cache
+/Users/twincode/Desktop/Steve_Jobs_Academy/Materie-2°-Anno/Programmazione 2/RubricaTelefonica/RubricaTelefonica/obj/Debug/net7.0/RubricaTelefonica.AssemblyInfo.cs
+/Users/twincode/Desktop/Steve_Jobs_Academy/Materie-2°-Anno/Programmazione 2/RubricaTelefonica/RubricaTelefonica/obj/Debug/net7.0/RubricaTelefonica.csproj.CoreCompileInputs.cache
+/Users/twincode/Desktop/Steve_Jobs_Academy/Materie-2°-Anno/Programmazione 2/RubricaTelefonica/RubricaTelefonica/obj/Debug/net7.0/RubricaTelefonica.dll
+/Users/twincode/Desktop/Steve_Jobs_Academy/Materie-2°-Anno/Programmazione 2/RubricaTelefonica/RubricaTelefonica/obj/Debug/net7.0/refint/RubricaTelefonica.dll
+/Users/twincode/Desktop/Steve_Jobs_Academy/Materie-2°-Anno/Programmazione 2/RubricaTelefonica/RubricaTelefonica/obj/Debug/net7.0/RubricaTelefonica.pdb
+/Users/twincode/Desktop/Steve_Jobs_Academy/Materie-2°-Anno/Programmazione 2/RubricaTelefonica/RubricaTelefonica/obj/Debug/net7.0/RubricaTelefonica.genruntimeconfig.cache
+/Users/twincode/Desktop/Steve_Jobs_Academy/Materie-2°-Anno/Programmazione 2/RubricaTelefonica/RubricaTelefonica/obj/Debug/net7.0/ref/RubricaTelefonica.dll
